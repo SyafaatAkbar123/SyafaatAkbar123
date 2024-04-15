@@ -23,6 +23,6 @@ I'm currently active in contributing as Front End and Back End Developer at <a h
 <p align="left">
 <a href="https://github.com/SyafaatAkbar123">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SyafaatAkbar123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyafaatAkbar123&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SyafaatAkbar12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
