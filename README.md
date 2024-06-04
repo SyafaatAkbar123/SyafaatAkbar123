@@ -6,7 +6,7 @@ I'm currently active in contributing as Front End and Back End Developer at <a h
 
 - 🔭 I’m currently studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about front end and back end web
-- 💬 Feel free to ask me about web development or JavaScript
+- 💬 Feel free to ask me about web development
 - 📫 How to reach me: [instagram.com/ffaatt883](https://www.instagram.com/ffaatt883/)
 - ⚡ Fun fact: an enjoyable person 
 
