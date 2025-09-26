@@ -4,10 +4,9 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active in contributing as Front End and Back End Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Web and Back-End Service.
 
-- 🔭 I’m currently studying at <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 - 🌱 I’m currently learning about front end and back end web
 - 💬 Feel free to ask me about web development
-- 📫 How to reach me: [instagram.com/ffaatt883](https://www.instagram.com/ffaatt883/)
+- 📫 How to reach me: [instagram.com/atllumina_](https://www.instagram.com/atllumina_/)
 - ⚡ Fun fact: an enjoyable person 
 
 ### Tech Stack
